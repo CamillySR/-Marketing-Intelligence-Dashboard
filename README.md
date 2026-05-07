@@ -2,7 +2,7 @@
 
 > **Customer segmentation, churn analysis, and product engagement insights.**
 
-[![Power BI](<img width="1779" height="973" alt="Captura de tela 2026-05-07 182453" src="https://github.com/user-attachments/assets/bc7d2cc2-1238-4f3f-8ddc-3fa010719939" />)](<img width="1798" height="965" alt="image" src="https://github.com/user-attachments/assets/5a569a8f-6597-432d-9e46-4d7b27dedca9" />)
+[![Power BI](src="https://github.com/user-attachments/assets/bc7d2cc2-1238-4f3f-8ddc-3fa010719939")](src="https://github.com/user-attachments/assets/5a569a8f-6597-432d-9e46-4d7b27dedca9")
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
 ---
@@ -167,7 +167,7 @@ The color palette was intentionally kept to a three-color spectrum (cyan → pur
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free).
 2. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/marketing-intelligence-dashboard.git
+   git clone https://github.com/CamillySR/marketing-intelligence-dashboard.git
    ```
 3. Open `Marketing - Dashboard.pbix` in Power BI Desktop.
 4. If prompted, point the data source to the `Churn_Modelling.csv` file in the same folder.
