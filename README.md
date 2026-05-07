@@ -2,7 +2,7 @@
 
 > **Customer segmentation, churn analysis, and product engagement insights.**
 
-![Power BI](Captura de tela 2026-05-07 182453.png)(Captura de tela 2026-05-07 182515.png)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/groups/me/reports/a91e0be4-bb72-4eb5-81a9-5bdb49389888/ae156cf60a38cc2b7dd2?experience=power-bi&bookmarkGuid=8ba32d470be98014ee16)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
 ---
