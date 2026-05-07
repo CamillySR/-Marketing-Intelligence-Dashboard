@@ -13,6 +13,16 @@
 
 ---
 
+## 📸 Dashboard Preview
+ 
+**Main View**
+![Marketing Intelligence Dashboard](Capturadetela2026-05-07182453.png)
+ 
+**Filter Panel Open**
+![Dashboard with Filter Panel](Capturadetela2026-05-07182515.png)
+ 
+---
+
 ## 📌 Project Overview
 
 This dashboard was built in **Power BI Desktop** to help marketing and business teams understand customer behavior, identify churn patterns, and monitor retention performance. It combines visual storytelling with interactive filters to allow stakeholders to drill down by geography, demographics, engagement level, and product usage.
