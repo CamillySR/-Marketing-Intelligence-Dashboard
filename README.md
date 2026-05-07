@@ -21,6 +21,8 @@
 **Filter Panel Open**
 <img width="1798" height="965" alt="Captura de tela 2026-05-07 182515" src="https://github.com/user-attachments/assets/53f10210-14cf-45d0-848d-23fceb0264af" />
 
+**A Quick Demonstration**
+<img width="1435" height="732" alt="Dashboard" src="https://github.com/user-attachments/assets/03d54285-f51d-4a92-8c09-de63f7114005" />
 
  
 ---
