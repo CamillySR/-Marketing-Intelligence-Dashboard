@@ -16,10 +16,10 @@
 ## 📸 Dashboard Preview
  
 **Main View**
-![Marketing Intelligence Dashboard]<img width="1779" height="973" alt="Captura de tela 2026-05-07 182453" src="https://github.com/user-attachments/assets/e1032995-330c-4a4b-8b41-f8bc3ac00015" />
+<img width="1779" height="973" alt="Captura de tela 2026-05-07 182453" src="https://github.com/user-attachments/assets/e1032995-330c-4a4b-8b41-f8bc3ac00015" />
  
 **Filter Panel Open**
-![Dashboard with Filter Panel]<img width="1779" height="973" alt="Captura de tela 2026-05-07 182453" src="https://github.com/user-attachments/assets/135b217f-e6f9-40f8-a694-79ecaaff25b2" />
+<img width="1779" height="973" alt="Captura de tela 2026-05-07 182453" src="https://github.com/user-attachments/assets/135b217f-e6f9-40f8-a694-79ecaaff25b2" />
 
  
 ---
